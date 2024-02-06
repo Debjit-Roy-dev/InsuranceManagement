@@ -6,7 +6,7 @@ namespace InsuranceManagement
     {
         static void Main(string[] args)
         {
-         InsuranceManagementServiceImpl service = new InsuranceManagementServiceImpl();
+         IInsuranceManagementService service = new InsuranceManagementServiceImpl();
             while (true)
             {
                 Console.WriteLine("Enter Your Choice:\n1.Create Policy\t2.Get Policy\t3.Get All Policies\t4.Update Policy\t5.Delete Policy\t6.Get Clients by PolicyName\n7.Exit\n");

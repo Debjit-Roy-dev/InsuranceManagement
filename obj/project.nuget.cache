@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GGOdX5JrAE9WzPd7ogWKhiHlKUYTRV5EZPeBxoHWCo79BYHQy7/JKtsQazW2ImfFZLscNfRdzjIizow+BW4fFw==",
+  "dgSpecHash": "GvG5nl/iMj3/eLeECeULWIKRUTG+IYMp6Bu4ImhZd5VSN4oEIxEopAj4Mcu01NzE59lLtOR34HGwGvO70EpYqQ==",
   "success": true,
-  "projectFilePath": "D:\\C#hexaTraining\\InsuranceManagement\\InsuranceManagement.csproj",
+  "projectFilePath": "D:\\CodingChallange\\InsuranceManagement\\InsuranceManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DEBJIT\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\DEBJIT\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

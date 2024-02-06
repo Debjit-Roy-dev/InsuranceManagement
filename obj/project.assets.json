@@ -2560,11 +2560,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#hexaTraining\\InsuranceManagement\\InsuranceManagement.csproj",
+      "projectUniqueName": "D:\\CodingChallange\\InsuranceManagement\\InsuranceManagement.csproj",
       "projectName": "InsuranceManagement",
-      "projectPath": "D:\\C#hexaTraining\\InsuranceManagement\\InsuranceManagement.csproj",
+      "projectPath": "D:\\CodingChallange\\InsuranceManagement\\InsuranceManagement.csproj",
       "packagesPath": "C:\\Users\\DEBJIT\\.nuget\\packages\\",
-      "outputPath": "D:\\C#hexaTraining\\InsuranceManagement\\obj\\",
+      "outputPath": "D:\\CodingChallange\\InsuranceManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DEBJIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
